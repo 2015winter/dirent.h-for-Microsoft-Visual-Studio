@@ -1,4 +1,4 @@
-dirent.h-for-Microsoft-Visual-Studio
+dirent.h for Microsoft Visual Studio
 ====================================
 
 在windows上使用的dirent接口，用于unix到windows的代码移植
