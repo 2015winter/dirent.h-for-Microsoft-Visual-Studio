@@ -7,7 +7,8 @@ dirent.h for Microsoft Visual Studio
 
 以下为官网介绍的译文，敬请参考：
 
-### 介绍
+介绍
+
 		Dirent是一个可以列出文件和文件夹的程序开发接口。Dirent接口在Unix系统非常通
 	用，但是没有windows上的编译器提供这个接口。特别是,Microsoft Visual Studio缺乏
 	dirent接口。
@@ -17,4 +18,4 @@ dirent.h for Microsoft Visual Studio
 	使用熟悉的Unix平台下的结构体和函数接口，而不必为了某一个平台修改源代码。
 
 
-	更多内容请大家访问官网。
+更多内容请大家访问官网。
